@@ -2,6 +2,10 @@
 #include <vector>
 #include <algorithm>
 
+/*
+ *  split into 2 parts
+ */
+
 template <typename RandomIt>
 void MergeSort(RandomIt range_begin, RandomIt range_end)
 {

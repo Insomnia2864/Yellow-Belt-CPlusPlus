@@ -17,7 +17,7 @@ std::vector<std::string> SplitIntoWords(const std::string& s)
 
 	}
 
-    result.pop_back();
+        result.pop_back();
 
 	return result;
 }

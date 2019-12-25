@@ -3,7 +3,7 @@
 #include <algorithm>
 
 /*
- *  на 3 части
+ *  split into 3 parts
  */
 
 template <typename RandomIt>

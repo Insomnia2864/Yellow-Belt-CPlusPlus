@@ -2,15 +2,12 @@
 
 #include "date.h"
 
-#include <iostream>
 #include <string>
 #include <vector>
 #include <map>
 #include <set>
-#include <list>
 #include <ostream>
 #include <utility>
-#include <future>
 #include <algorithm>
 
 struct Data

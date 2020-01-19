@@ -8,7 +8,6 @@
 #include <set>
 #include <ostream>
 #include <utility>
-#include <algorithm>
 
 struct Data
 {
